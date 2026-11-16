@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@iconify/vue": "^5.0.3",
-    "@supabase/supabase-js": "^2.89.0",
+    "@supabase/supabase-js": "^2.119.0",
     "appwrite": "^21.5.0",
     "chart.js": "^4.5.0",
     "cors": "^2.8.5",
